@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="percent_70">#27ae60</color>
+    <color name="percent_60">#2ecc71</color>
+    <color name="percent_45">#f1c40f</color>
+    <color name="percent_35">#f39c12</color>
+    <color name="percent_20">#c0392b</color>
+    <color name="live">#e74c3c</color>
+    <color name="button">#e74c3c</color>
+    <color name="clas">#3498db</color>
+    <color name="button_pressed">#95a5a6</color>
+    <color name="blue">#3498db</color>
+    <color name="dark_blue">#2980b9</color>
+    <color name="orange">#e67e22</color>
+    <color name="orange_dark">#d35400</color>
+    <color name="green">#27ae60</color>
+</resources>

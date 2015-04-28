@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Results and analysis</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="EnterUSN">Enter the university serial number</string>
+    <string name="Getresults">Get Results</string>
+    <string name="Live_string">Live Results</string>
+    <string name="Old_string">Analyze Results</string>
+    <string name="Class_string">Class Results</string>
+    <string name="Schedule_string">Schedule Check</string>
+    <string name="class_usn">Enter the university class number</string>
+
+</resources>

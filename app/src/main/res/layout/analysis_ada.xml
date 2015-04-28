@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#ffffff"
+    android:padding="10dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Electronics"
+        android:id="@+id/ana_tvname"
+        android:textColor="#ff2e2e2e" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="16sp"
+        android:textColor="#ff4b4b4b"
+        android:text="University Topper:"
+        android:id="@+id/ana_tvt"/>
+    <ProgressBar
+        android:layout_width="match_parent"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_height="5dp"
+        android:progress="45"
+        android:id="@+id/uni_top"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="#ff4b4b4b"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="16sp"
+        android:id="@+id/ana_tvavg"
+        android:text="University Average:"/>
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:progress="45"
+        android:id="@+id/uni_avg"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textColor="#ff4b4b4b"
+        android:textSize="16sp"
+        android:id="@+id/ana_tvbrat"
+        android:text="Branch Topper:"/>
+    <ProgressBar
+        android:layout_width="match_parent"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_height="5dp"
+        android:progress="45"
+        android:id="@+id/branch_top"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="#ff4b4b4b"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="16sp"
+        android:id="@+id/ana_tvbrava"
+        android:text="Branch Average:"/>
+    <ProgressBar
+        android:layout_width="match_parent"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_height="5dp"
+        android:progress="45"
+        android:id="@+id/branch_avg"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ff4b4b4b"
+        android:layout_margin="5dp"
+        android:textSize="16sp"
+        android:id="@+id/ana_tvself"
+        android:text="Your Score:"/>
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:progress="45"
+        android:id="@+id/score"/>
+
+
+</LinearLayout>

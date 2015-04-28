@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/ll_res"
+        android:weightSum="4"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2.4"
+            android:text="Engerineerign masdtsadsdsfsdfsdfsadasdsadsds"
+            android:id="@+id/list_tv"
+            android:textColor="#ff5e5e5e"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".5"
+            android:gravity="center"
+            android:textColor="#ff5e5e5e"
+            android:textSize="14sp"
+            android:id="@+id/external"
+            android:text="96"
+            />
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".5"
+            android:textColor="#ff5e5e5e"
+            android:textSize="14sp"
+            android:gravity="center"
+            android:id="@+id/internal"
+            android:text="96"
+            />
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".5"
+            android:gravity="center"
+            android:textColor="#ff5e5e5e"
+            android:textSize="14sp"
+            android:id="@+id/total"
+            android:text="96"
+            />
+
+        </LinearLayout>
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_alignParentBottom="true"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:id="@+id/progress"
+            android:layout_height="5dp"/>
+
+</RelativeLayout>
