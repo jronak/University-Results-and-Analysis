@@ -91,7 +91,8 @@ public class Home extends ActionBarActivity {
         {
             if(aBoolean)
             {
-                String link = "http://tvamsisai.co/vtu/public/usn/"+usn;
+                //Link removed :P
+                String link = "Link removed"+usn;
                 download.execute(link);
             }
             else
