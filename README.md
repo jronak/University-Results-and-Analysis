@@ -12,7 +12,9 @@ This application is focused on benefiting the students of Visvesvaraya Technolog
 * Ranking students of their branch
 * Mean deviative
 
-Application also automatically notifies the user when their result is available
+Application also automatically notifies the user when their result is available. 
+
+Class results are provided too in the order of rank.
 
 Few more parameters are analysed too, which shall be implemented in application later.
 
@@ -29,6 +31,9 @@ Glimpse of the application:
 
 ![Image]
 (https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/analysis.png)
+
+![Image]
+(https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/class.png)
 
 ![Image]
 (https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/home.png)
