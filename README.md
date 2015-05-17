@@ -35,5 +35,6 @@ Glimpse of the application:
 ![Image]
 (https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/analysis.png)
 
-![Image]
-(https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/home.png)
+Todo:
+* Improving the analysis section with graphs
+* Saving results for offline access
