@@ -24,6 +24,9 @@ Glimpse of the application:
 (https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/pass.png)
 
 ![Image]
+(https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/class_room.png)
+
+![Image]
 (https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/fail.png)
 
 ![Image]
@@ -31,9 +34,6 @@ Glimpse of the application:
 
 ![Image]
 (https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/analysis.png)
-
-![Image]
-(https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/class.png)
 
 ![Image]
 (https://github.com/JRonak/University-Results-and-Analysis/blob/master/images/home.png)
